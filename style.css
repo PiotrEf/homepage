@@ -6,7 +6,6 @@ body {
 	word-break: break-word;
 	-webkit-font-smoothing: antialiased;
 }
-
 h1 {
     color: #0b0ba0;
     }
@@ -24,4 +23,7 @@ nav a {
 }
 a {
     color:#aca004dd
+}
+p {
+    color:#0b0ba0
 }
