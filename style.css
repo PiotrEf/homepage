@@ -1,0 +1,30 @@
+body {
+    font-family: 'Roboto', sans-serif;
+	color: #aaa;
+	background-color: #f5f5f5;
+	line-height: 1.5;
+	word-break: break-word;
+	-webkit-font-smoothing: antialiased;
+}
+
+h1 {
+    color: #0b0ba0;
+    }
+p {
+    color: gray;
+    }
+h2 {
+    color:indigo;
+}   
+.hotpink-header {
+    color:hotpink; 
+}
+#Top {
+    background: #b93131;
+}
+nav a {
+    color: rgb(30, 158, 30) 
+}
+a {
+    color:#aca004dd
+}
